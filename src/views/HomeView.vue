@@ -19,6 +19,7 @@ import flashSale from '@/assets/tag.png'
 import bestSeler from '@/assets/best.png'
 import AlertNotif from '@/components/AlertNotif.vue'
 import PromoSlider from './Home/PromoSlider.vue'
+import TestemoniSlider from './Home/TestemoniSlider.vue'
 
 const imageList = ref([
   { src: gambarFF, alt: 'Free Fire' },
@@ -27,6 +28,37 @@ const imageList = ref([
   { src: pubg, alt: 'PUBG' },
   { src: cod, alt: 'Call of Duty' },
   { src: steam, alt: 'Steam' },
+])
+
+const testemoni = ref([
+  {
+    name: 'The Marveric',
+    game: 'MAV-GOO',
+    avatar: 'https://testweb.imatechcom.com/viptop/unnamed.webp',
+    testimonial:
+      'Rekomendasi tempat topup terpercaya andalan gue, karena Viptop tempat top up yg dapat menyediakan berbagai jenis game mobile. fast response, dan harganya yg murah, Fasilitas VIP harga murah, dan banyak promo menarik lainnya. Pokoknya',
+  },
+  {
+    name: 'Girl Gamer',
+    game: 'GALVtOP',
+    avatar: 'https://testweb.imatechcom.com/viptop/avatar-1.jpg',
+    testimonial:
+      'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus.',
+  },
+  {
+    name: 'The Marveric',
+    game: 'MetroGamer',
+    avatar: 'https://testweb.imatechcom.com/viptop/avatar-2.jpg',
+    testimonial:
+      'ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, Fasilitas VIP harga murah, dan banyak promo menarik lainnya. Pokoknya.',
+  },
+  {
+    name: 'The Marveric',
+    game: 'KensRETRO',
+    avatar: 'https://testweb.imatechcom.com/viptop/avatar-3.jpg',
+    testimonial:
+      'Rekomendasi tempat topup terpercaya andalan gue, karena Viptop tempat top up yg dapat menyediakan berbagai jenis game mobile. fast response, dan harganya yg murah, Fasilitas VIP harga murah, dan banyak promo menarik lainnya. Pokoknya',
+  },
 ])
 </script>
 
@@ -83,7 +115,7 @@ const imageList = ref([
         <ItemCard
           href="/pembelian-nama-game"
           title="Honor of Kings"
-          src="https://testweb.imatechcom.com/viptop/item/hok.webp"
+          src="https://testweb.imatechcom.com/viptop/item/hoc.webp"
           disc="-10%"
         />
         <ItemCard
@@ -121,10 +153,46 @@ const imageList = ref([
         :headingImage="headingPromo"
       />
       <CardHolder>
-        <ItemCard />
-        <ItemCard />
-        <ItemCard />
+        <ItemCard
+          href="/pembelian-nama-game"
+          title="P.U.B.G Mobile"
+          src="https://testweb.imatechcom.com/viptop/item/pubg.webp"
+        />
+        <ItemCard
+          href="/pembelian-nama-game"
+          title="Mobile Legend Bang-bang"
+          src="https://testweb.imatechcom.com/viptop/item/mlbb.webp"
+        />
+        <ItemCard
+          href="/pembelian-nama-game"
+          title="Ragnarok M"
+          src="https://testweb.imatechcom.com/viptop/item/ragnarok.webp"
+        />
       </CardHolder>
+    </section>
+
+    <!-- testimoni -->
+    <section class="container mx-auto flex flex-col items-start p-4 lg:p-0">
+      <HeadingTemplate
+        headingName="Customer Happy"
+        themeImage="https://testweb.imatechcom.com/viptop/tt-icon.webp"
+        color="bg-purple-600"
+        headingImage="https://testweb.imatechcom.com/viptop/faq.png"
+      />
+      <div class="mb-8 mt-4 bg-blue-200/10 w-full px-4 rounded-xl">
+        <TestemoniSlider :testimonials="testemoni" />
+      </div>
+    </section>
+
+    <!-- q & a -->
+    <section class="container m-auto flex flex-col items-start p-4 lg:p-0">
+      <HeadingTemplate
+        headingName="F A Q"
+        themeImage="https://testweb.imatechcom.com/viptop/faq-head.png"
+        color="bg-purple-600"
+        headingImage="https://testweb.imatechcom.com/viptop/faq.png"
+      />
+      <div></div>
     </section>
   </div>
 </template>
