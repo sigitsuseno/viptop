@@ -67,39 +67,47 @@ const imageList = ref([
         <ItemCard
           href="/pembelian-nama-game"
           title="AFK Journey"
-          src="/dist/assets/games/afk.webp"
+          src="https://testweb.imatechcom.com/viptop/item/afk.webp"
           disc="-10%"
         />
-        <ItemCard href="/pembelian-nama-game" title="Free Fire" src="/dist/assets/games/ff.webp" />
-        <ItemCard href="/pembelian-nama-game" title="GI Cristal" src="/dist/assets/games/gi.webp" />
+        <ItemCard
+          href="/pembelian-nama-game"
+          title="Free Fire"
+          src="https://testweb.imatechcom.com/viptop/item/ff.webp"
+        />
+        <ItemCard
+          href="/pembelian-nama-game"
+          title="GI Cristal"
+          src="https://testweb.imatechcom.com/viptop/item/gi.webp"
+        />
         <ItemCard
           href="/pembelian-nama-game"
           title="Honor of Kings"
-          src="/dist/assets/games/hok.webp"
+          src="https://testweb.imatechcom.com/viptop/item/hok.webp"
           disc="-10%"
         />
         <ItemCard
           href="/pembelian-nama-game"
           title="Honkai Star Rail"
-          src="/dist/assets/games/hsr.webp"
+          src="https://testweb.imatechcom.com/viptop/item/hsr.webp"
           disc="-10%"
         />
         <ItemCard
           href="/pembelian-nama-game"
           title="Mobile Legend Bang-bang"
-          src="/dist/assets/games/mlbb.webp"
+          src="https://testweb.imatechcom.com/viptop/item/mlbb.webp"
           disc="-10%"
         />
         <ItemCard
           href="/pembelian-nama-game"
           title="P.U.B.G Mobile"
-          src="/dist/assets/games/pubg.webp"
+          src="https://testweb.imatechcom.com/viptop/item/pubg.webp"
           disc="-10%"
         />
         <ItemCard
           href="/pembelian-nama-game"
           title="VALORAN"
-          src="/dist/assets/games/valoran.webp"
+          src="https://testweb.imatechcom.com/viptop/item/valoran.webp"
           disc="-10%"
         />
       </CardHolder>
