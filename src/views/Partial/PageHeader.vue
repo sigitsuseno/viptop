@@ -116,7 +116,7 @@ onUnmounted(() => {
             <span class="text-sm font-light lg:text-[1rem] lg:font-bold">Home</span>
           </RouterLink>
           <RouterLink
-            to="/order"
+            to="/track-order"
             class="flex flex-col items-center"
             active-class="text-blue-400 font-medium"
           >

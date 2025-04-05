@@ -1,11 +1,11 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
-import OrderView from '../views/OrderView.vue'
 
 import PromoView from '../views/PromoView.vue'
 import WebsiteTerm from '@/views/WebsiteTerm.vue'
 import UserTerms from '@/views/UserTerms.vue'
 import PrivacyPolicy from '@/views/PrivacyPolicy.vue'
+import TrackOrderView from '../views/TrackOrderView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -26,9 +26,15 @@ const router = createRouter({
       component: () => import('@/views/PembelianItem.vue'),
     },
     {
-      path: '/order',
+      path: '/invoice/:invoiceNumber',
+      name: 'invoice',
+      component: () => import('@/views/Invoice/InvoiceView.vue'),
+      props: true,
+    },
+    {
+      path: '/track-order',
       name: 'order',
-      component: OrderView,
+      component: TrackOrderView,
     },
     {
       path: '/promo',

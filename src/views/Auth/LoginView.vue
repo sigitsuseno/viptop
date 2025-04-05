@@ -1,7 +1,7 @@
 <template>
   <div class="w-full flex flex-col bg-blue-950 text-white">
-    <div class="w-full overflow-hidden relative">
-      <img src="../../assets/login_head.png" alt="" />
+    <div class="w-full overflow-hidden relative h-52">
+      <img src="../../assets/login_head.png" alt="" class="w-full h-full object-cover object-top" />
       <div
         class="absolute -bottom-4 -left-24 w-full h-20 bg-gradient-to-r from-blue-900 to-blue-950 skew-x-40 rounded-lg"
       ></div>
