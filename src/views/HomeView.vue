@@ -20,6 +20,8 @@ import bestSeler from '@/assets/best.png'
 import AlertNotif from '@/components/AlertNotif.vue'
 import PromoSlider from './Home/PromoSlider.vue'
 import TestemoniSlider from './Home/TestemoniSlider.vue'
+import faq_data from '@/assets/faq.json'
+import FaqAccordeon from './Home/FaqAccordeon.vue'
 
 const imageList = ref([
   { src: gambarFF, alt: 'Free Fire' },
@@ -60,6 +62,8 @@ const testemoni = ref([
       'Rekomendasi tempat topup terpercaya andalan gue, karena Viptop tempat top up yg dapat menyediakan berbagai jenis game mobile. fast response, dan harganya yg murah, Fasilitas VIP harga murah, dan banyak promo menarik lainnya. Pokoknya',
   },
 ])
+
+const faqData = ref(faq_data)
 </script>
 
 <template>
@@ -185,14 +189,30 @@ const testemoni = ref([
     </section>
 
     <!-- q & a -->
-    <section class="container m-auto flex flex-col items-start p-4 lg:p-0">
-      <HeadingTemplate
-        headingName="F A Q"
-        themeImage="https://testweb.imatechcom.com/viptop/faq-head.png"
-        color="bg-purple-600"
-        headingImage="https://testweb.imatechcom.com/viptop/faq.png"
-      />
-      <div></div>
+    <section
+      class="container w-full m-auto flex flex-col items-start bg-blue-200/10 pt-8 rounded-xl"
+    >
+      <div class="w-full px-4 lg:px-0">
+        <HeadingTemplate
+          headingName="F A Q"
+          themeImage="https://testweb.imatechcom.com/viptop/faq-head.png"
+          color="bg-purple-600"
+          headingImage="https://testweb.imatechcom.com/viptop/faq.png"
+        />
+      </div>
+      <div class="w-full py-4 px-4 rounded-xl mt-4">
+        <template v-for="(category, index) in faqData" :key="index">
+          <h3 class="font-bold text-2xl tracking-widest mb-3">
+            {{ index + 1 }}. {{ category.category }}
+          </h3>
+          <FaqAccordeon
+            v-for="(item, qIndex) in category.questions"
+            :key="qIndex"
+            :question="item.question"
+            :answer="item.answer"
+          />
+        </template>
+      </div>
     </section>
   </div>
 </template>

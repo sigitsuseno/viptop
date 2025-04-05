@@ -11,10 +11,11 @@
       <!-- swiper item slider -->
       <SwiperSlide v-for="(item, index) in testimonials" :key="index">
         <div
-          class="w-full p-4 frame bg-gradient-to-r from-indigo-800/50 from-10% via-purple-800/50 via-70% to-purple-950/50 to-90%"
+          class="w-full h-full p-4 frame bg-gradient-to-r from-indigo-800/50 from-10% via-purple-800/50 via-70% to-purple-950/50 to-90%"
         >
-          <div class="grid grid-rows-[125px_1fr] lg:grid-cols-[112px_1fr] gap-4">
-            <div class="flex flex-col items-center justify-center">
+          <div class="grid lg:grid-cols-[112px_1fr] grid-cols-1 gap-4 items-start">
+            <!-- Bagian Avatar -->
+            <div class="flex flex-col items-center justify-start">
               <div
                 class="w-28 h-28 frame2 overflow-hidden bg-orange-300 flex items-center justify-center"
               >
@@ -27,22 +28,21 @@
               </div>
             </div>
 
-            <div class="flex flex-col lg:items-start lg:justify-start items-center">
-              <div class="text-2xl font-bold text-white">
-                {{ item.name }}
-              </div>
+            <!-- Bagian Konten -->
+            <div class="flex flex-col lg:items-start items-center h-full">
+              <div class="text-2xl font-bold text-white">{{ item.name }}</div>
               <a
                 href="/"
-                class="frame3 py-2 px-4 bg-linear-to-r from-purple-800 to-blue-500 mt-2 flex flex-row items-center justify-start gap-2"
+                class="frame3 py-2 px-4 bg-gradient-to-r from-purple-800 to-blue-500 mt-2 flex items-center gap-2"
               >
                 <img
                   src="https://testweb.imatechcom.com/viptop/youtube-color-svgrepo-com.svg"
                   :alt="item.game"
-                  class="w-8 h-8 object-cover"
+                  class="w-8 h-8"
                 />
                 <span>{{ item.game }}</span>
               </a>
-              <div class="text-sm text-gray-300 mt-2">"{{ item.testimonial }}"</div>
+              <div class="text-sm text-gray-300 mt-2 flex-1">"{{ item.testimonial }}"</div>
             </div>
           </div>
         </div>

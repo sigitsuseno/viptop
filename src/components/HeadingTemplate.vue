@@ -3,7 +3,9 @@
     <div :class="`absolute left-4 -top-2 w-16 h-16 ${color} shadow-lg shadow-slate-950`">
       <img :src="themeImage" alt="tema image" />
     </div>
-    <div class="w-full h-12 bg-blue-950 flex items-center">
+    <div
+      class="w-full h-12 bg-blue-950 flex items-center shadow-[0_3px_10px_0px_#00000088] shadow-slate-950"
+    >
       <h4 class="ml-24 text-xl lg:text-2xl font-bold tracking-wider z-10 shadow-text">
         {{ headingName }}
       </h4>
