@@ -1,0 +1,2361 @@
+{
+    "01J5JS551X3X6Z8QTBNF9WG47Z": {
+        "id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+        "title": "Best Seller",
+        "groupedProductGames": [
+            {
+                "group_game_id": "01j45m4frv1avgtrxzpybp6hjw",
+                "games": {
+                    "01J5JS50RDQ8XXP0PA2S60M5AT": {
+                        "id": "01J5JS50RDQ8XXP0PA2S60M5AT",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Genshin Impact",
+                        "avatar_url": "produk/01J6BQRCB5349S4FMD0J2AEC6K.webp",
+                        "group_game_id": null,
+                        "slug": "genshin-impact"
+                    },
+                    "01J5JS5194Q6K8Y0QDTRQX2F2Y": {
+                        "id": "01J5JS5194Q6K8Y0QDTRQX2F2Y",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "BP Crystal GI - Login",
+                        "avatar_url": "produk/01J6BQR4KFARY2T9K689KDXQRP.webp",
+                        "group_game_id": null,
+                        "slug": "bp-crystal-gi-login"
+                    },
+                    "01J5JS52CZ6DCMD584NPSQC6H0": {
+                        "id": "01J5JS52CZ6DCMD584NPSQC6H0",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Joki GI",
+                        "avatar_url": "produk/1707120813_5e821b57c4a3233d03fa.webp",
+                        "group_game_id": null,
+                        "slug": "joki-gi"
+                    }
+                },
+                "group_game": {
+                    "id": "01j45m4frv1avgtrxzpybp6hjw",
+                    "name": "GI Crystals",
+                    "avatar_url": "produk/01J4E3P7EQNP69SAXRJ0DWVQVD.webp"
+                },
+                "max_discount": 20,
+                "game_seq_no": 1
+            },
+            {
+                "group_game_id": "01jkqeqvmhxretjfaky6a8brat",
+                "games": {
+                    "01J5JS511G1TKMT9P7YGQDFWWN": {
+                        "id": "01J5JS511G1TKMT9P7YGQDFWWN",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Mobile Legends",
+                        "avatar_url": "produk/01JN2SR9NXXQ6VB16JFP8JJDA5.webp",
+                        "group_game_id": null,
+                        "slug": "mobile-legends"
+                    },
+                    "01J5JS52C5CD100M0CWGWR8J88": {
+                        "id": "01J5JS52C5CD100M0CWGWR8J88",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Joki Mobile Legends",
+                        "avatar_url": "produk/1707120801_230a021c23b452dba210.webp",
+                        "group_game_id": null,
+                        "slug": "joki-mobile-legends"
+                    },
+                    "01j9ec8exy620nr8kbcwnj7m34": {
+                        "id": "01j9ec8exy620nr8kbcwnj7m34",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Magic Chess: Go Go",
+                        "avatar_url": "produk/01JF4A8X6CQ98S7RPKHZC4P4K7.webp",
+                        "group_game_id": null,
+                        "slug": "magic-chess-go-go"
+                    }
+                },
+                "group_game": {
+                    "id": "01jkqeqvmhxretjfaky6a8brat",
+                    "name": "Mobile Legends",
+                    "avatar_url": "produk/01JN62S97DTVVGNY1670H8FPC2.webp"
+                },
+                "max_discount": 17,
+                "game_seq_no": 4
+            },
+            {
+                "group_game_id": "01j45m9rzgb6zrt8pkrxw4ep4m",
+                "games": {
+                    "01J5JS51GVCV092R3EXCACW914": {
+                        "id": "01J5JS51GVCV092R3EXCACW914",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Honkai Star Rail",
+                        "avatar_url": "produk/01J6BQZMG48B7K056EFZS7CVKF.webp",
+                        "group_game_id": null,
+                        "slug": "honkai-star-rail"
+                    },
+                    "01J5JS51PPK755GJSC6B24KNG1": {
+                        "id": "01J5JS51PPK755GJSC6B24KNG1",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "BP Oneiric HSR - Login",
+                        "avatar_url": "produk/01J6BR094PTCP8R2NJ0N93ZBMT.webp",
+                        "group_game_id": null,
+                        "slug": "bp-oneiric-hsr-login"
+                    },
+                    "01J5JS52EF7BZGEAPZKCDRMQ4N": {
+                        "id": "01J5JS52EF7BZGEAPZKCDRMQ4N",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Joki HSR",
+                        "avatar_url": "produk/1708421828_f2003d32ef806a2257b2.webp",
+                        "group_game_id": null,
+                        "slug": "joki-hsr"
+                    }
+                },
+                "group_game": {
+                    "id": "01j45m9rzgb6zrt8pkrxw4ep4m",
+                    "name": "HSR Oneiric",
+                    "avatar_url": "produk/01J4V77ZZS8Q6WKM8GKM0KJK17.webp"
+                },
+                "max_discount": 20,
+                "game_seq_no": 6
+            },
+            {
+                "group_game_id": "01jksyp4rewhfymt8b9k1vw3k3",
+                "games": {
+                    "01J5JS52DFTX2WR1X36TB3B4ED": {
+                        "id": "01J5JS52DFTX2WR1X36TB3B4ED",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Wuthering Waves - Login",
+                        "avatar_url": "produk/01J8KZ8SB8D0NFFH6ERXYNBP2M.webp",
+                        "group_game_id": null,
+                        "slug": "wuthering-waves-login"
+                    },
+                    "01J5JS52MJR6AD8TATEXC0VWMV": {
+                        "id": "01J5JS52MJR6AD8TATEXC0VWMV",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Joki Wuthering Waves",
+                        "avatar_url": "produk/1718002380_f89cfcb1eec7219517a8.png",
+                        "group_game_id": null,
+                        "slug": "joki-wuthering-waves"
+                    }
+                },
+                "group_game": {
+                    "id": "01jksyp4rewhfymt8b9k1vw3k3",
+                    "name": "Wuthering Waves - Login",
+                    "avatar_url": "produk/01JKSYP4JSTQR7SNNNGJETV6EY.webp"
+                },
+                "max_discount": 20,
+                "game_seq_no": 9
+            },
+            {
+                "group_game_id": "01j45mrsk6nhmymyfw0sw07ytd",
+                "games": {
+                    "01J5JS52AKSY2FX5HZDP9TEVSF": {
+                        "id": "01J5JS52AKSY2FX5HZDP9TEVSF",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Zenless Zone Zero",
+                        "avatar_url": "produk/01J6BRE3G926B2Y2SE66XEX95Q.webp",
+                        "group_game_id": null,
+                        "slug": "zenless-zone-zero"
+                    },
+                    "01J5JS52DDNXS8PGKNCTJXXS54": {
+                        "id": "01J5JS52DDNXS8PGKNCTJXXS54",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Zenless Zone Zero - Login",
+                        "avatar_url": "produk/01J8HH8S1CMK5S29M2SE8NG83S.webp",
+                        "group_game_id": null,
+                        "slug": "zenless-zone-zero-login"
+                    }
+                },
+                "group_game": {
+                    "id": "01j45mrsk6nhmymyfw0sw07ytd",
+                    "name": "ZZZ Monochrome",
+                    "avatar_url": "produk/01J4V7EHG4CWV417TBQM7A8F73.webp"
+                },
+                "max_discount": 20,
+                "game_seq_no": 10
+            },
+            {
+                "group_game_id": "01j45mvk45vasn9zdk62b5qsb0",
+                "games": {
+                    "01J5JS52V471PTC0H0SRQVMCX8": {
+                        "id": "01J5JS52V471PTC0H0SRQVMCX8",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "PUBG Mobile",
+                        "avatar_url": "produk/01JJVPZSQ6J27J8RG7KQ4DNZY9.webp",
+                        "group_game_id": null,
+                        "slug": "pubg-mobile"
+                    },
+                    "01J5JS52W8PNZAEDZG2Y3NTC9N": {
+                        "id": "01J5JS52W8PNZAEDZG2Y3NTC9N",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "PUBG Mobile - Global",
+                        "avatar_url": "produk/01JJVQ19M22AM31RFAPWNQT7J8.webp",
+                        "group_game_id": null,
+                        "slug": "pubg-mobile-global"
+                    }
+                },
+                "group_game": {
+                    "id": "01j45mvk45vasn9zdk62b5qsb0",
+                    "name": "PUBG Mobile",
+                    "avatar_url": "produk/01JJVQ2BR1HKJF6S1WKXSEW4TZ.webp"
+                },
+                "max_discount": 20,
+                "game_seq_no": 12
+            },
+            {
+                "group_game_id": "01jh4qxjvp2rmbtej5raabdksq",
+                "games": {
+                    "01J5JS50K5KV8K6F8AFJWDR6C9": {
+                        "id": "01J5JS50K5KV8K6F8AFJWDR6C9",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Free Fire",
+                        "avatar_url": "produk/01JH77M1MDQHW75A6ENT3QR5SK.webp",
+                        "group_game_id": null,
+                        "slug": "free-fire"
+                    },
+                    "01J5JS50Q7RVDE4FERKRYP6H0V": {
+                        "id": "01J5JS50Q7RVDE4FERKRYP6H0V",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Free Fire MAX",
+                        "avatar_url": "produk/01JH77M7W0XZHWJJSS0V22DK16.webp",
+                        "group_game_id": null,
+                        "slug": "free-fire-max"
+                    },
+                    "01J5JS52KVXSN2MZY3Z6XKTJRS": {
+                        "id": "01J5JS52KVXSN2MZY3Z6XKTJRS",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Free Fire Max Global",
+                        "avatar_url": "produk/01J98FNSSZTE7NF347HE2SNTRF.webp",
+                        "group_game_id": null,
+                        "slug": "free-fire-max-global"
+                    },
+                    "01J5JS52KRF8Z2GYBETE76BYEQ": {
+                        "id": "01J5JS52KRF8Z2GYBETE76BYEQ",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Free Fire Global",
+                        "avatar_url": "produk/01J98FMQ1WK4258TM17N2E4E6P.webp",
+                        "group_game_id": null,
+                        "slug": "free-fire-global"
+                    }
+                },
+                "group_game": {
+                    "id": "01jh4qxjvp2rmbtej5raabdksq",
+                    "name": "Free Fire",
+                    "avatar_url": "produk/01JH77K2SJ1HQYXJKXQ2VW5V94.webp"
+                },
+                "max_discount": 20,
+                "game_seq_no": 13
+            },
+            {
+                "group_game_id": "01jkqjwqtcchvrt4vs7zrzff7j",
+                "games": {
+                    "01J5JS5285295E90GW0VPTFXMN": {
+                        "id": "01J5JS5285295E90GW0VPTFXMN",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Honor of Kings",
+                        "avatar_url": "produk/01JQ3D668C8TEVD82X33QZV8JM.webp",
+                        "group_game_id": null,
+                        "slug": "honor-of-kings"
+                    },
+                    "01J5JS52P100KVMQNTN41XQHFD": {
+                        "id": "01J5JS52P100KVMQNTN41XQHFD",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Joki Honor of Kings",
+                        "avatar_url": "produk/1720171775_4dec65062568a5cc7017.jpg",
+                        "group_game_id": null,
+                        "slug": "joki-honor-of-kings"
+                    }
+                },
+                "group_game": {
+                    "id": "01jkqjwqtcchvrt4vs7zrzff7j",
+                    "name": "Honor of Kings",
+                    "avatar_url": "produk/01JQ3D6EHQ8QWVP5PM568QGGM8.webp"
+                },
+                "max_discount": 20,
+                "game_seq_no": 15
+            },
+            {
+                "group_game_id": "01j45mp55z30bbjvw4dv857exs",
+                "games": {
+                    "01J5JS52WDCR5ZW3QS4PDY4RGQ": {
+                        "id": "01J5JS52WDCR5ZW3QS4PDY4RGQ",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Valorant",
+                        "avatar_url": "produk/01J72RVE335NXQVBYVPQ4VDMVA.webp",
+                        "group_game_id": null,
+                        "slug": "valorant"
+                    },
+                    "01J5JS52CVZTYJ4ZB49YA46F2G": {
+                        "id": "01J5JS52CVZTYJ4ZB49YA46F2G",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Joki Valorant",
+                        "avatar_url": "produk/1707121227_d0caf83cde41c4953043.webp",
+                        "group_game_id": null,
+                        "slug": "joki-valorant"
+                    },
+                    "01J5JS52XJ7NNG8PHF683MZKYF": {
+                        "id": "01J5JS52XJ7NNG8PHF683MZKYF",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Voucher Valorant",
+                        "avatar_url": "produk/1707122066_cb62dbd626bcf2ce2471.webp",
+                        "group_game_id": null,
+                        "slug": "voucher-valorant"
+                    }
+                },
+                "group_game": {
+                    "id": "01j45mp55z30bbjvw4dv857exs",
+                    "name": "Valorant",
+                    "avatar_url": "produk/01J72RXWYJ80X7K3GKCHWN09MP.webp"
+                },
+                "max_discount": 1,
+                "game_seq_no": 17
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52F2NX3342XGDT5AQ10K": {
+                        "id": "01J5JS52F2NX3342XGDT5AQ10K",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Night Crows  - Login",
+                        "avatar_url": "produk/01J8M04FEET48V5QDT7N2Y7R89.webp",
+                        "group_game_id": null,
+                        "slug": "night-crows-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 22
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01jdgv377bczgy8ws5jata9vj0": {
+                        "id": "01jdgv377bczgy8ws5jata9vj0",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Ragnarok M Classic",
+                        "avatar_url": "produk/01JE60TP7N60XKFDA0YGXM6QH8.webp",
+                        "group_game_id": null,
+                        "slug": "ragnarok-m-classic",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 23
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52SR4BJB5E36WRMV30V0": {
+                        "id": "01J5JS52SR4BJB5E36WRMV30V0",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "AFK Journey - Login",
+                        "avatar_url": "produk/01J8M149XRHNJKNXC8J7EATRP9.webp",
+                        "group_game_id": null,
+                        "slug": "afk-journey-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 24
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01j6bn2p4a7n45few4ba39qj34": {
+                        "id": "01j6bn2p4a7n45few4ba39qj34",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Sky: Children of the Light - Promo",
+                        "avatar_url": "produk/01J6BN2NX27H4FBGMH4A1TCXF7.webp",
+                        "group_game_id": null,
+                        "slug": "sky-children-of-the-light-promo",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 25
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51VD8CW91XGTB8MH809G": {
+                        "id": "01J5JS51VD8CW91XGTB8MH809G",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Whiteout Survival - Login",
+                        "avatar_url": "produk/01J6S1GGQDSWYTHM5JMH3Q988V.webp",
+                        "group_game_id": null,
+                        "slug": "whiteout-survival-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 26
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52SBH0EEXYJPCX3GAW8Y": {
+                        "id": "01J5JS52SBH0EEXYJPCX3GAW8Y",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Sword of Convallaria - Login",
+                        "avatar_url": "produk/01JA9YVQJ743BP6DHSDFAYCQYT.webp",
+                        "group_game_id": null,
+                        "slug": "sword-of-convallaria-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 27
+            },
+            {
+                "group_game_id": "01jr5s9923v3ankpnxtztxe8t1",
+                "games": {
+                    "01J5JS510Q6489ZPRVGTT6W2V3": {
+                        "id": "01J5JS510Q6489ZPRVGTT6W2V3",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "League of Legends - PC",
+                        "avatar_url": "produk/1707124876_35bb03f436f388ad7640.webp",
+                        "group_game_id": null,
+                        "slug": "league-of-legends-pc"
+                    },
+                    "01J5JS510D9YR6Z9XBD2EMRWTE": {
+                        "id": "01J5JS510D9YR6Z9XBD2EMRWTE",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "League of Legends : Wild Rift",
+                        "avatar_url": "produk/1707120309_2a0c792822282adb5eb8.webp",
+                        "group_game_id": null,
+                        "slug": "league-of-legends-wild-rift"
+                    }
+                },
+                "group_game": {
+                    "id": "01jr5s9923v3ankpnxtztxe8t1",
+                    "name": "League of Legends : Wild Rift",
+                    "avatar_url": "produk/01JR5S98WKZY2VZ3XHCRHDTVX1.webp"
+                },
+                "max_discount": 0,
+                "game_seq_no": 30
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51EHA66ESNMVXXTJA9EM": {
+                        "id": "01J5JS51EHA66ESNMVXXTJA9EM",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Rise of Kingdom - Login",
+                        "avatar_url": "produk/1707122521_43f0565402b8ae775d49.webp",
+                        "group_game_id": null,
+                        "slug": "rise-of-kingdom-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 31
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51RM9CBZ1AQ60CNQQB7G": {
+                        "id": "01J5JS51RM9CBZ1AQ60CNQQB7G",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Call of Dragon - Login",
+                        "avatar_url": "produk/1707121782_ea83907837aacfa7b05c.webp",
+                        "group_game_id": null,
+                        "slug": "call-of-dragon-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 32
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51G9HJN67EQYXYW4NZ9D": {
+                        "id": "01J5JS51G9HJN67EQYXYW4NZ9D",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Roblox - Login",
+                        "avatar_url": "produk/1707118611_0d90aba6909e33a1eb34.webp",
+                        "group_game_id": null,
+                        "slug": "roblox-login-2",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 33
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52FM4D93DYRAAEYV1KH0": {
+                        "id": "01J5JS52FM4D93DYRAAEYV1KH0",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Solo Leveling: Arise - Login",
+                        "avatar_url": "produk/01J8F6HSKK8MG2VEBN5SHWEX9J.webp",
+                        "group_game_id": null,
+                        "slug": "solo-leveling-arise-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 34
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS50H1D4F51GEVRJGPJ6XS": {
+                        "id": "01J5JS50H1D4F51GEVRJGPJ6XS",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Call of Duty Mobile",
+                        "avatar_url": "produk/1707120278_1a0c59eee62fc3724d78.webp",
+                        "group_game_id": null,
+                        "slug": "call-of-duty-mobile",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 35
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52DYEGSTRZTN8JM8VFXV": {
+                        "id": "01J5JS52DYEGSTRZTN8JM8VFXV",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Bigo Live",
+                        "avatar_url": "produk/01J8HP965D5HJ65YVHDYDY3YFC.webp",
+                        "group_game_id": null,
+                        "slug": "bigo-live",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 36
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS50XK8TF429PQG2N4Z8HX": {
+                        "id": "01J5JS50XK8TF429PQG2N4Z8HX",
+                        "product_game_tag_id": "01J5JS551X3X6Z8QTBNF9WG47Z",
+                        "title": "Honkai Impact",
+                        "avatar_url": "produk/1707120331_fe2e48016df2bfddafa2.webp",
+                        "group_game_id": null,
+                        "slug": "honkai-impact",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 39
+            }
+        ],
+        "icon": "fa fa-fire",
+        "rgb": "217, 55, 72"
+    },
+    "01J5JS55443TN56H7CPDDMS9BB": {
+        "id": "01J5JS55443TN56H7CPDDMS9BB",
+        "title": "New Rilis Games",
+        "groupedProductGames": [
+            {
+                "group_game_id": null,
+                "games": {
+                    "01je8293430ag8nrx98wn221s6": {
+                        "id": "01je8293430ag8nrx98wn221s6",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Girls' Frontline 2: Exilium - Login",
+                        "avatar_url": "produk/01JE82920GJMEAGM0BS1PXKN20.webp",
+                        "group_game_id": null,
+                        "slug": "Girls-Frontline-2-Exilium",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 1
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01j9tmre1k43p1e229mejwane8": {
+                        "id": "01j9tmre1k43p1e229mejwane8",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Last War : Survival Game - Login",
+                        "avatar_url": "produk/01J9TMRCSD1M6AQ1F3FFFSKEH7.webp",
+                        "group_game_id": null,
+                        "slug": "last-war-survival",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 2
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51EMS05PZMXBVCB81G97": {
+                        "id": "01J5JS51EMS05PZMXBVCB81G97",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "eFootball PES 2025 Mobile - Login",
+                        "avatar_url": "produk/01JECZ0D2YBTFHPBST1Q8Y3P0D.webp",
+                        "group_game_id": null,
+                        "slug": "efootball-pes-2025-mobile-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 3
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01jaad1q09tzxebdtggzfc459q": {
+                        "id": "01jaad1q09tzxebdtggzfc459q",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Dark War Survival - Login",
+                        "avatar_url": "produk/01JAAD1NTMNGRHZ78VMFMACRJ7.webp",
+                        "group_game_id": null,
+                        "slug": "dar-war-survival-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 4
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01jqbynmsqr03cyss4ng8fm1g5": {
+                        "id": "01jqbynmsqr03cyss4ng8fm1g5",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Dragon Nest Classic SEA",
+                        "avatar_url": "produk/01JQC3971R7D8BM00FP62FC6SC.webp",
+                        "group_game_id": null,
+                        "slug": "dragon-nest-classic-sea",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 5
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01je8djgct8s3gfczy63bxm02k": {
+                        "id": "01je8djgct8s3gfczy63bxm02k",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Go Go Muffin - Login",
+                        "avatar_url": "produk/01JE8DJFB7Y614KJ9E69M8P2Y2.webp",
+                        "group_game_id": null,
+                        "slug": "Go-Go-Muffin-Login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 6
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01jmhdnferwy2w29dzjc1114f8": {
+                        "id": "01jmhdnferwy2w29dzjc1114f8",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Tribe Nine - Login",
+                        "avatar_url": "produk/01JMHDNE1WK57T10HJGNMB1B3D.webp",
+                        "group_game_id": null,
+                        "slug": "Tribe-Nine-Login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 7
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01jeaq89x8phqad79pxs9q76ay": {
+                        "id": "01jeaq89x8phqad79pxs9q76ay",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Infinity Nikki - Login",
+                        "avatar_url": "produk/01JEAQ88PMP2AHK4V9JT63H4T8.webp",
+                        "group_game_id": null,
+                        "slug": "Infinity-Nikki-Login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 8
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01j981wa36fax277qmrzgddtq9": {
+                        "id": "01j981wa36fax277qmrzgddtq9",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Pokemon TCG Pocket - Login",
+                        "avatar_url": "produk/01J981W8WET5E4EQ32HRT0A09N.webp",
+                        "group_game_id": null,
+                        "slug": "pokemon-tcg-pocket",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 9
+            },
+            {
+                "group_game_id": "01jj8r8j9ftp0y7mw97ybhk1fv",
+                "games": {
+                    "01jetwwyy7n85gcp27e3hw2807": {
+                        "id": "01jetwwyy7n85gcp27e3hw2807",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Delta Force",
+                        "avatar_url": "produk/01JF7G1JZQ1JVFWRX8A4PAXNNY.webp",
+                        "group_game_id": null,
+                        "slug": "delta-force"
+                    },
+                    "01jj3kq1g4g7280952d5qp9wv8": {
+                        "id": "01jj3kq1g4g7280952d5qp9wv8",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Delta Force - Garena",
+                        "avatar_url": "produk/01JJ8QHBR3PRB5NBSA5RBPF2KP.webp",
+                        "group_game_id": null,
+                        "slug": "delta-force-garena"
+                    }
+                },
+                "group_game": {
+                    "id": "01jj8r8j9ftp0y7mw97ybhk1fv",
+                    "name": "Delta Force",
+                    "avatar_url": "produk/01JJ8R8J2H8N52FEKFAD12EVVC.webp"
+                },
+                "max_discount": 0,
+                "game_seq_no": 10
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01jezkze0sb5zgb9tr5413h7hj": {
+                        "id": "01jezkze0sb5zgb9tr5413h7hj",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Marvel Rivals",
+                        "avatar_url": "produk/01JFC08E5VB4TSSHVSK0DC3M5D.webp",
+                        "group_game_id": null,
+                        "slug": "marvel-rivals",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 12
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01j9x00smncvgnbgjfvssg60j5": {
+                        "id": "01j9x00smncvgnbgjfvssg60j5",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Tree of Savior: Neverland - Login",
+                        "avatar_url": "produk/01J9X00RFE743Z8PZA2SHS78H6.webp",
+                        "group_game_id": null,
+                        "slug": "treeofsavior-neverland",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 13
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01jcmyehcttgc5z3dvh4881t4g": {
+                        "id": "01jcmyehcttgc5z3dvh4881t4g",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Soul Land: New World",
+                        "avatar_url": "produk/01JCN2QFQMVJG28RBXJMVDN91E.webp",
+                        "group_game_id": null,
+                        "slug": "soul-land-new-world",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 14
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS526Z3W6HJMV651QRAQET": {
+                        "id": "01J5JS526Z3W6HJMV651QRAQET",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Reverse 1999 - Login",
+                        "avatar_url": "produk/1707120921_e1f676fa09c62abecaaf.webp",
+                        "group_game_id": null,
+                        "slug": "reverse-1999-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 15
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01j6491e6n0315j6kdw3z7kzh8": {
+                        "id": "01j6491e6n0315j6kdw3z7kzh8",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Forsaken World 2",
+                        "avatar_url": "produk/01J6VKRV3H0DKFQW22MKSP5CP4.webp",
+                        "group_game_id": null,
+                        "slug": "forsaken-world-2",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 16
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01jc309ck8jjrgs8twz6p05f9r": {
+                        "id": "01jc309ck8jjrgs8twz6p05f9r",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Jujutsu Kaisen Phantom Parade - Login",
+                        "avatar_url": "produk/01JC309BHGQTJQBVMSTC7HXEH9.webp",
+                        "group_game_id": null,
+                        "slug": "jujutsu-kaisen-phantom-parade-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 17
+            },
+            {
+                "group_game_id": "01japsfgsekzagks9rz8bxdwkw",
+                "games": {
+                    "01j8aap97bcbg7qccekzsgxhcy": {
+                        "id": "01j8aap97bcbg7qccekzsgxhcy",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Age of Empires Mobile",
+                        "avatar_url": "produk/01JAFMPBM60NKZCN54ZX7GSK4X.webp",
+                        "group_game_id": null,
+                        "slug": "age-of-empires-mobile"
+                    },
+                    "01japqzae4ftpvnqvzrsnxtt5v": {
+                        "id": "01japqzae4ftpvnqvzrsnxtt5v",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Age of Empires Mobile - Login",
+                        "avatar_url": "produk/01JAPQZ9APY1XRV0KRS1XPS66G.webp",
+                        "group_game_id": null,
+                        "slug": "age-of-empires-login"
+                    }
+                },
+                "group_game": {
+                    "id": "01japsfgsekzagks9rz8bxdwkw",
+                    "name": "Age of Empires Mobile",
+                    "avatar_url": "produk/01JAPSFGQEBE1J45RK7W2BB5PW.webp"
+                },
+                "max_discount": 0,
+                "game_seq_no": 18
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01j9ttgscw0p478bzw3yennw6v": {
+                        "id": "01j9ttgscw0p478bzw3yennw6v",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Cabal : Infinite Combo - SEA",
+                        "avatar_url": "produk/01JEZCRQZC6RNBBZ3BVSP625X6.webp",
+                        "group_game_id": null,
+                        "slug": "cabal-infinite-combo-sea",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 21
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01jgzjp6yfyhrzeghfnmy51an7": {
+                        "id": "01jgzjp6yfyhrzeghfnmy51an7",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Black Desert SEA",
+                        "avatar_url": "produk/01JH4EX4KV9JNWC98GVGXTVAA4.webp",
+                        "group_game_id": null,
+                        "slug": "black-desert-sea",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 22
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01je69p5gmq377f4wn4f4dkp1a": {
+                        "id": "01je69p5gmq377f4wn4f4dkp1a",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "STARSEED: Asnia Trigger - Login",
+                        "avatar_url": "produk/01JE69P4DEHABBG4XH5AV7YAH7.webp",
+                        "group_game_id": null,
+                        "slug": "starseed-asnia-trigger",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 23
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS50JM0MHHTJF8A780WS7H": {
+                        "id": "01J5JS50JM0MHHTJF8A780WS7H",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Cloud Song",
+                        "avatar_url": "produk/01JH4SX2V660W0YYAPPFJB924A.webp",
+                        "group_game_id": null,
+                        "slug": "cloud-song",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 25
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS50JRZEG5QGV6134K9RFQ": {
+                        "id": "01J5JS50JRZEG5QGV6134K9RFQ",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Dragon Raja - SEA",
+                        "avatar_url": "produk/01JH4T2FA6X8ZZJGNTJAEXKVSC.webp",
+                        "group_game_id": null,
+                        "slug": "dragon-raja-sea",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 27
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01j84ae6w8sajck3kycn0k3mx7": {
+                        "id": "01j84ae6w8sajck3kycn0k3mx7",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "ColorBANG",
+                        "avatar_url": "produk/01JE5YNPX3VA9DAVJ3KM7FNYBH.webp",
+                        "group_game_id": null,
+                        "slug": "colorbang",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 28
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01j8mfnbmetaxw7x03hk8jecdf": {
+                        "id": "01j8mfnbmetaxw7x03hk8jecdf",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Seven Knights Idle Adventure - Login",
+                        "avatar_url": "produk/01J8MFNA8SEDVQSM5H5M14V1FW.webp",
+                        "group_game_id": null,
+                        "slug": "seven-knights-idle-adventure-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 30
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52NXQJXAX661V57M9ZVE": {
+                        "id": "01J5JS52NXQJXAX661V57M9ZVE",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Draconia Saga",
+                        "avatar_url": "produk/01J8PHPHS9V9HBDA5GPQR0XVR7.webp",
+                        "group_game_id": null,
+                        "slug": "draconia-saga",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 31
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51TZ83AJB1VYPQEH8HM9": {
+                        "id": "01J5JS51TZ83AJB1VYPQEH8HM9",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Guardian Tales - Login",
+                        "avatar_url": "produk/1707120874_ef3ce1d47efe4f952718.webp",
+                        "group_game_id": null,
+                        "slug": "guardian-tales-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 32
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01j64sz23987ewerew8hpc9yqh": {
+                        "id": "01j64sz23987ewerew8hpc9yqh",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Once Human",
+                        "avatar_url": "produk/01J8HT1XYVK1017XE13SM3SPET.webp",
+                        "group_game_id": null,
+                        "slug": "once-human",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 33
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51WCMV86DS3QGK3T4M8Q": {
+                        "id": "01J5JS51WCMV86DS3QGK3T4M8Q",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Blue Archive - Login",
+                        "avatar_url": "produk/1707121854_9dfae927605bc9fd7d36.webp",
+                        "group_game_id": null,
+                        "slug": "blue-archive-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 35
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01j62hp0er79ps5p6rd2etpp23": {
+                        "id": "01j62hp0er79ps5p6rd2etpp23",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Dynasty Legends 2 - Login",
+                        "avatar_url": "produk/01J62HP04NH5FM1TYGVGFXA5JN.webp",
+                        "group_game_id": null,
+                        "slug": "dynasty-legends-2-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 37
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01j6pwb293z9v9tkk4k1s46pay": {
+                        "id": "01j6pwb293z9v9tkk4k1s46pay",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Zombie Waves - Login",
+                        "avatar_url": "produk/01J6PWB04F9Z35YFPNV4ZN552V.webp",
+                        "group_game_id": null,
+                        "slug": "zombie-waves-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 38
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01j62hk8bwkhqtzt48fry80rj0": {
+                        "id": "01j62hk8bwkhqtzt48fry80rj0",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Sea of Conquest: Pirate War - Login",
+                        "avatar_url": "produk/01J62HK86E9FFQ4XM7BXVPXTCP.webp",
+                        "group_game_id": null,
+                        "slug": "sea-of-conquest-pirate-war-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 39
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52EWE6TFSPS870QRV2Z6": {
+                        "id": "01J5JS52EWE6TFSPS870QRV2Z6",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Moonlight Blade M",
+                        "avatar_url": "produk/01J8HNT2X8E8TWYA8WSXH5AW2J.webp",
+                        "group_game_id": null,
+                        "slug": "moonlight-blade-m",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 40
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51W1C7A8RHPTP21Q3DTM": {
+                        "id": "01J5JS51W1C7A8RHPTP21Q3DTM",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Fate Grand Order - Login",
+                        "avatar_url": "produk/1707120958_29990dc15f3151670092.webp",
+                        "group_game_id": null,
+                        "slug": "fate-grand-order-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 41
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52MWGVVQ4BDE5XZTQ8ME": {
+                        "id": "01J5JS52MWGVVQ4BDE5XZTQ8ME",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Squad Busters - Login",
+                        "avatar_url": "produk/01J8HP4DSKHTBPHHCN39E6X7GZ.webp",
+                        "group_game_id": null,
+                        "slug": "squad-busters-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 43
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51S71YABHM694RH09SNY": {
+                        "id": "01J5JS51S71YABHM694RH09SNY",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Aether Gazer - Login",
+                        "avatar_url": "produk/01JAA0N1BPPZ3X3NP974P23Q10.webp",
+                        "group_game_id": null,
+                        "slug": "aether-gazer-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 44
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS526H59YTVT41J30K1MCH": {
+                        "id": "01J5JS526H59YTVT41J30K1MCH",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "WeSing",
+                        "avatar_url": "produk/01J8HPB45GQHBCXV7028RB9Q6C.webp",
+                        "group_game_id": null,
+                        "slug": "wesing",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 45
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS521YJMJY1VVXS8TE77VE": {
+                        "id": "01J5JS521YJMJY1VVXS8TE77VE",
+                        "product_game_tag_id": "01J5JS55443TN56H7CPDDMS9BB",
+                        "title": "Identity V",
+                        "avatar_url": "produk/01J8PJWVEW7YQV0PJ2XCS3AR95.webp",
+                        "group_game_id": null,
+                        "slug": "identity-v",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 47
+            }
+        ],
+        "icon": "fi fi-rr-diamond",
+        "rgb": "224, 94, 26"
+    },
+    "01J5JS552TCDK184QJF42JKAVT": {
+        "id": "01J5JS552TCDK184QJF42JKAVT",
+        "title": "Request Top Up Game",
+        "groupedProductGames": [
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51TN9AYDJDCNDW9RQS5V": {
+                        "id": "01J5JS51TN9AYDJDCNDW9RQS5V",
+                        "product_game_tag_id": "01J5JS552TCDK184QJF42JKAVT",
+                        "title": "Request Game Lain - Login",
+                        "avatar_url": "produk/1706719575_f01d08dd4e42d4d37408.webp",
+                        "group_game_id": null,
+                        "slug": "request-game-lain-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 1
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS520FAKGZ4X59880NQDBM": {
+                        "id": "01J5JS520FAKGZ4X59880NQDBM",
+                        "product_game_tag_id": "01J5JS552TCDK184QJF42JKAVT",
+                        "title": "Arena Breakout",
+                        "avatar_url": "produk/01JFRP4CR7G9TPR1ZMW5QJCBTN.webp",
+                        "group_game_id": null,
+                        "slug": "arena-breakout",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 2
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51F025JBH1NWFAP7DMFC": {
+                        "id": "01J5JS51F025JBH1NWFAP7DMFC",
+                        "product_game_tag_id": "01J5JS552TCDK184QJF42JKAVT",
+                        "title": "Arknights - Login",
+                        "avatar_url": "produk/01J72RDW48N9X7K6JZAK2J2NMV.webp",
+                        "group_game_id": null,
+                        "slug": "arknights-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 3
+            },
+            {
+                "group_game_id": "01jeazp248jdhedmct9q34n4xc",
+                "games": {
+                    "01J5JS51E9HWVQPHMPA45D1WNF": {
+                        "id": "01J5JS51E9HWVQPHMPA45D1WNF",
+                        "product_game_tag_id": "01J5JS552TCDK184QJF42JKAVT",
+                        "title": "FC Mobile - Login",
+                        "avatar_url": "produk/01JENHJ1DJGX8QSV6P0XGRMQEV.webp",
+                        "group_game_id": null,
+                        "slug": "fc-mobile-login"
+                    },
+                    "01J5JS5250Y4GB4BBFMN6D710P": {
+                        "id": "01J5JS5250Y4GB4BBFMN6D710P",
+                        "product_game_tag_id": "01J5JS552TCDK184QJF42JKAVT",
+                        "title": "EA SPORTS FC Mobile",
+                        "avatar_url": "produk/01JENHHHR8DXSM1M7RZSD1A8ZB.webp",
+                        "group_game_id": null,
+                        "slug": "ea-sports-fc-mobile"
+                    }
+                },
+                "group_game": {
+                    "id": "01jeazp248jdhedmct9q34n4xc",
+                    "name": "FC Mobile",
+                    "avatar_url": "produk/01JENHG9GPYZ81XPTS3CWS0VSX.webp"
+                },
+                "max_discount": 0,
+                "game_seq_no": 4
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51FJDXS5DEZDE0YWVHN8": {
+                        "id": "01J5JS51FJDXS5DEZDE0YWVHN8",
+                        "product_game_tag_id": "01J5JS552TCDK184QJF42JKAVT",
+                        "title": "Clash of Clans - Login",
+                        "avatar_url": "produk/01J8HPD4ZTWH08RBBEVM8SM1QB.webp",
+                        "group_game_id": null,
+                        "slug": "clash-of-clans-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 6
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01j6s4v4xpw39bbrz8tk65ajpz": {
+                        "id": "01j6s4v4xpw39bbrz8tk65ajpz",
+                        "product_game_tag_id": "01J5JS552TCDK184QJF42JKAVT",
+                        "title": "Clash Royale - Login",
+                        "avatar_url": "produk/01J6S4V2WEZP8T0JJJNYASRHZR.webp",
+                        "group_game_id": null,
+                        "slug": "clash-royale-login-2",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 7
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01j6s3tstjg86yw34zq157f6xt": {
+                        "id": "01j6s3tstjg86yw34zq157f6xt",
+                        "product_game_tag_id": "01J5JS552TCDK184QJF42JKAVT",
+                        "title": "Brawl Stars - Login",
+                        "avatar_url": "produk/01J6S3TQXZ3GWWSY9BD7KZ8H6W.webp",
+                        "group_game_id": null,
+                        "slug": "brawl-stars-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 8
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS521Q5XWXQ64SJHMVWF0R": {
+                        "id": "01J5JS521Q5XWXQ64SJHMVWF0R",
+                        "product_game_tag_id": "01J5JS552TCDK184QJF42JKAVT",
+                        "title": "Snowbreak - Login",
+                        "avatar_url": "produk/1707121819_2e1af640c55f3e45ba7d.webp",
+                        "group_game_id": null,
+                        "slug": "snowbreak-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 9
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51FVY74KCXQMN0NJSAD3": {
+                        "id": "01J5JS51FVY74KCXQMN0NJSAD3",
+                        "product_game_tag_id": "01J5JS552TCDK184QJF42JKAVT",
+                        "title": "Punishing:Gray Raven - Login",
+                        "avatar_url": "produk/1707121757_a8e0f07c0b7c27899756.webp",
+                        "group_game_id": null,
+                        "slug": "punishing-gray-raven-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 10
+            },
+            {
+                "group_game_id": "01jh58mnftzpjbs49zep6w7gqc",
+                "games": {
+                    "01J5JS52JDD0G5KEFBAWWPTQWB": {
+                        "id": "01J5JS52JDD0G5KEFBAWWPTQWB",
+                        "product_game_tag_id": "01J5JS552TCDK184QJF42JKAVT",
+                        "title": "Love and Deepspace",
+                        "avatar_url": "produk/01J8PHSXT677NJTDJGM842S158.webp",
+                        "group_game_id": null,
+                        "slug": "love-and-deepspace"
+                    },
+                    "01J5JS52QEPWXRCYKCHK6KPBES": {
+                        "id": "01J5JS52QEPWXRCYKCHK6KPBES",
+                        "product_game_tag_id": "01J5JS552TCDK184QJF42JKAVT",
+                        "title": "Love and Deepspace - Login",
+                        "avatar_url": "produk/01J8PJ65PQHS9Z426CF637PGYE.webp",
+                        "group_game_id": null,
+                        "slug": "love-and-deepspace-login"
+                    }
+                },
+                "group_game": {
+                    "id": "01jh58mnftzpjbs49zep6w7gqc",
+                    "name": "Love and Deepspace",
+                    "avatar_url": "produk/01JH58MN7BW8V0HE61QNPXHD48.webp"
+                },
+                "max_discount": 0,
+                "game_seq_no": 11
+            },
+            {
+                "group_game_id": "01jf41b715b6dpsc4ee3fjtg6z",
+                "games": {
+                    "01J5JS51VAW2G4PJVCSVVDDA82": {
+                        "id": "01J5JS51VAW2G4PJVCSVVDDA82",
+                        "product_game_tag_id": "01J5JS552TCDK184QJF42JKAVT",
+                        "title": "Goddess of Victory: Nikke - Login",
+                        "avatar_url": "produk/1707122504_6fcdfbbdb44572d08905.webp",
+                        "group_game_id": null,
+                        "slug": "goddess-of-victory-nikke-login"
+                    },
+                    "01J5JS52028EPSWH2X3P2GB6WS": {
+                        "id": "01J5JS52028EPSWH2X3P2GB6WS",
+                        "product_game_tag_id": "01J5JS552TCDK184QJF42JKAVT",
+                        "title": "Goddess of Victory : Nikke",
+                        "avatar_url": "produk/1707124764_b5e1426b5a8141b46201.webp",
+                        "group_game_id": null,
+                        "slug": "goddess-of-victory-nikke"
+                    }
+                },
+                "group_game": {
+                    "id": "01jf41b715b6dpsc4ee3fjtg6z",
+                    "name": "Goddess of Victory: Nikke",
+                    "avatar_url": "produk/01JF4AZ665K2RYWY7KASNBQMPW.webp"
+                },
+                "max_discount": 0,
+                "game_seq_no": 13
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51W5EJ7KEQS0R63C55BQ": {
+                        "id": "01J5JS51W5EJ7KEQS0R63C55BQ",
+                        "product_game_tag_id": "01J5JS552TCDK184QJF42JKAVT",
+                        "title": "Tears of Themis - Login",
+                        "avatar_url": "produk/1707122573_525d822937f2b63f4fc5.webp",
+                        "group_game_id": null,
+                        "slug": "tears-of-themis-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 15
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01j73fdqzmq74jwgb678y5fjy1": {
+                        "id": "01j73fdqzmq74jwgb678y5fjy1",
+                        "product_game_tag_id": "01J5JS552TCDK184QJF42JKAVT",
+                        "title": "Hay Day - Login",
+                        "avatar_url": "produk/01J73FDP20HPVRESTFD3P4D0H9.webp",
+                        "group_game_id": null,
+                        "slug": "hay-day-login-2",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 16
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51WA1QCD8CN1JV978A2G": {
+                        "id": "01J5JS51WA1QCD8CN1JV978A2G",
+                        "product_game_tag_id": "01J5JS552TCDK184QJF42JKAVT",
+                        "title": "Azur Lane - Login",
+                        "avatar_url": "produk/1707122172_cc1f10a0e13b47da6a9e.webp",
+                        "group_game_id": null,
+                        "slug": "azur-lane-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 17
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52SDXE5SBC43MKJF0KR4": {
+                        "id": "01J5JS52SDXE5SBC43MKJF0KR4",
+                        "product_game_tag_id": "01J5JS552TCDK184QJF42JKAVT",
+                        "title": "Super SUS",
+                        "avatar_url": "produk/01JH4TGGPVZW82PKG8HVT9D5B4.webp",
+                        "group_game_id": null,
+                        "slug": "super-sus",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 18
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01jh4xhagqmssvqeyhfqgprc9z": {
+                        "id": "01jh4xhagqmssvqeyhfqgprc9z",
+                        "product_game_tag_id": "01J5JS552TCDK184QJF42JKAVT",
+                        "title": "Black Beacon",
+                        "avatar_url": "produk/01JH4Y449YD8QR6ZAMDJEB6PCD.webp",
+                        "group_game_id": null,
+                        "slug": "Black-Beacon",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 19
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01jh4yehs8rxvgbdy7fh5ya9pc": {
+                        "id": "01jh4yehs8rxvgbdy7fh5ya9pc",
+                        "product_game_tag_id": "01J5JS552TCDK184QJF42JKAVT",
+                        "title": "Etheria:Restart",
+                        "avatar_url": "produk/01JH4YEGBXX6S1Q3ZBFVVJ8B98.webp",
+                        "group_game_id": null,
+                        "slug": "Etheria-Restart",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 20
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52DNYWWCWPZ9D42ZWTKX": {
+                        "id": "01J5JS52DNYWWCWPZ9D42ZWTKX",
+                        "product_game_tag_id": "01J5JS552TCDK184QJF42JKAVT",
+                        "title": "Arknights Endfield - Login",
+                        "avatar_url": "produk/1707124739_822a549b7fa00605899f.webp",
+                        "group_game_id": null,
+                        "slug": "arknights-endfield-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 21
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52S1E6MQ03X10RTTPAB9": {
+                        "id": "01J5JS52S1E6MQ03X10RTTPAB9",
+                        "product_game_tag_id": "01J5JS552TCDK184QJF42JKAVT",
+                        "title": "Neverness to Everness - Login",
+                        "avatar_url": "produk/01J90S4HWX98JER075VH22XN5K.webp",
+                        "group_game_id": null,
+                        "slug": "neverness-to-everness-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 25
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51FY5Q87W9TAKA67BEPB": {
+                        "id": "01J5JS51FY5Q87W9TAKA67BEPB",
+                        "product_game_tag_id": "01J5JS552TCDK184QJF42JKAVT",
+                        "title": "Diablo Immortal - Login",
+                        "avatar_url": "produk/1707121872_a88ff6b751c9ce7d748d.webp",
+                        "group_game_id": null,
+                        "slug": "diablo-immortallogin",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 28
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51W84NSGT0TC15BF4JKT": {
+                        "id": "01J5JS51W84NSGT0TC15BF4JKT",
+                        "product_game_tag_id": "01J5JS552TCDK184QJF42JKAVT",
+                        "title": "Pokemon Unite - Login",
+                        "avatar_url": "produk/1707122084_e2de9ca8604eba10e1b9.webp",
+                        "group_game_id": null,
+                        "slug": "pokemon-unite-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 30
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51W3RX8AEV0TKZGFXR9V": {
+                        "id": "01J5JS51W3RX8AEV0TKZGFXR9V",
+                        "product_game_tag_id": "01J5JS552TCDK184QJF42JKAVT",
+                        "title": "Modern Warship - Login",
+                        "avatar_url": "produk/1707122674_d3e6621f5572ef70709b.webp",
+                        "group_game_id": null,
+                        "slug": "modern-warship-login",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 31
+            }
+        ],
+        "icon": "fi fi-rr-heart-half-stroke",
+        "rgb": "16, 196, 209"
+    },
+    "01J5JS553Y1VTS522BFDPS7BNQ": {
+        "id": "01J5JS553Y1VTS522BFDPS7BNQ",
+        "title": "Voucher Digital",
+        "groupedProductGames": [
+            {
+                "group_game_id": "01jndnss8pzhfw9zq7h01g0xvg",
+                "games": {
+                    "01J5JS5191V7K4RT2PDT3WS7CR": {
+                        "id": "01J5JS5191V7K4RT2PDT3WS7CR",
+                        "product_game_tag_id": "01J5JS553Y1VTS522BFDPS7BNQ",
+                        "title": "Axis",
+                        "avatar_url": "produk/01JNDGQDYEH34R8AHZ1EAJ12YC.webp",
+                        "group_game_id": null,
+                        "slug": "axis"
+                    },
+                    "01J5JS52P07VG8VWM9TRTG5BFW": {
+                        "id": "01J5JS52P07VG8VWM9TRTG5BFW",
+                        "product_game_tag_id": "01J5JS553Y1VTS522BFDPS7BNQ",
+                        "title": "Smartfren",
+                        "avatar_url": "produk/01JNDGWXX46MJ6Y2GGMVMBQXB0.webp",
+                        "group_game_id": null,
+                        "slug": "smartfren"
+                    },
+                    "01J5JS50Y3V9M09KPHETZF16M2": {
+                        "id": "01J5JS50Y3V9M09KPHETZF16M2",
+                        "product_game_tag_id": "01J5JS553Y1VTS522BFDPS7BNQ",
+                        "title": "Indosat",
+                        "avatar_url": "produk/01JNDH0SWTPZ6JW79TDT1X3YNM.webp",
+                        "group_game_id": null,
+                        "slug": "indosat"
+                    },
+                    "01J5JS52TMBZ3FBD4KEH2DBD76": {
+                        "id": "01J5JS52TMBZ3FBD4KEH2DBD76",
+                        "product_game_tag_id": "01J5JS553Y1VTS522BFDPS7BNQ",
+                        "title": "Tri",
+                        "avatar_url": "produk/01JNDH3D18YF3CWZWY0PP963CY.webp",
+                        "group_game_id": null,
+                        "slug": "tri"
+                    },
+                    "01J5JS52TQ4YWTAZJK3RQ5YWV3": {
+                        "id": "01J5JS52TQ4YWTAZJK3RQ5YWV3",
+                        "product_game_tag_id": "01J5JS553Y1VTS522BFDPS7BNQ",
+                        "title": "Telkomsel",
+                        "avatar_url": "produk/01JNDH6VRMVQE3MX3RW141SPSD.webp",
+                        "group_game_id": null,
+                        "slug": "telkomsel"
+                    },
+                    "01J5JS52XTT1FT7PMPZE2PQG1E": {
+                        "id": "01J5JS52XTT1FT7PMPZE2PQG1E",
+                        "product_game_tag_id": "01J5JS553Y1VTS522BFDPS7BNQ",
+                        "title": "XL",
+                        "avatar_url": "produk/01JNDHN4BGT3PC72J2421J0GH5.webp",
+                        "group_game_id": null,
+                        "slug": "xl"
+                    }
+                },
+                "group_game": {
+                    "id": "01jndnss8pzhfw9zq7h01g0xvg",
+                    "name": "Pulsa Prabayar",
+                    "avatar_url": "produk/01JNDNSS47FCMR48J5K1TMM3NG.webp"
+                },
+                "max_discount": 0,
+                "game_seq_no": 1
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52X94WEAFAHCHZ5XCJD1": {
+                        "id": "01J5JS52X94WEAFAHCHZ5XCJD1",
+                        "product_game_tag_id": "01J5JS553Y1VTS522BFDPS7BNQ",
+                        "title": "Steam Wallet Code",
+                        "avatar_url": "produk/01J6C44QVXGM967W8HG031FNMN.webp",
+                        "group_game_id": null,
+                        "slug": "steam-wallet-code",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 1
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01jj663te7byvyb75cp67asys2": {
+                        "id": "01jj663te7byvyb75cp67asys2",
+                        "product_game_tag_id": "01J5JS553Y1VTS522BFDPS7BNQ",
+                        "title": "Monster Hunter Wilds CD Keys",
+                        "avatar_url": "produk/01JN5KG18TH8Z3AVK5GED7Y1N5.webp",
+                        "group_game_id": null,
+                        "slug": "monster-hunter-wilds",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 1
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52WYCZ3GCPQTZFGCPACA": {
+                        "id": "01J5JS52WYCZ3GCPQTZFGCPACA",
+                        "product_game_tag_id": "01J5JS553Y1VTS522BFDPS7BNQ",
+                        "title": "Voucher Google Play",
+                        "avatar_url": "produk/01J6C48CJFG72E6EYWDXY54113.webp",
+                        "group_game_id": null,
+                        "slug": "voucher-google-play",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 2
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52C3JCHWFEJ3KXC2HMAZ": {
+                        "id": "01J5JS52C3JCHWFEJ3KXC2HMAZ",
+                        "product_game_tag_id": "01J5JS553Y1VTS522BFDPS7BNQ",
+                        "title": "Voucher Razer Gold",
+                        "avatar_url": "produk/1707122141_1c3f9dd8adadd35ef521.webp",
+                        "group_game_id": null,
+                        "slug": "voucher-razer-gold",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 3
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51FF3MT21FQWG9SC67EB": {
+                        "id": "01J5JS51FF3MT21FQWG9SC67EB",
+                        "product_game_tag_id": "01J5JS553Y1VTS522BFDPS7BNQ",
+                        "title": "Voucher Megaxus",
+                        "avatar_url": "produk/01JAY5BZRYVWJYB09WN6D97KK2.webp",
+                        "group_game_id": null,
+                        "slug": "voucher-megaxus",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 4
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52X7VGKFVV8JCPTRA2X1": {
+                        "id": "01J5JS52X7VGKFVV8JCPTRA2X1",
+                        "product_game_tag_id": "01J5JS553Y1VTS522BFDPS7BNQ",
+                        "title": "PlayStation\u2122Store Gift Card",
+                        "avatar_url": "produk/01J6C4AT7BVKEW4ANXW66R1JS9.webp",
+                        "group_game_id": null,
+                        "slug": "playstation-store-gift-card",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 5
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS524BYW72715K2AXCY68V": {
+                        "id": "01J5JS524BYW72715K2AXCY68V",
+                        "product_game_tag_id": "01J5JS553Y1VTS522BFDPS7BNQ",
+                        "title": "Bstation \/ Bilibili",
+                        "avatar_url": "produk/01J95Z4TYT21JCNS1TDGESD9MZ.webp",
+                        "group_game_id": null,
+                        "slug": "bstation-bilibili",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 6
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52X5QAM64Z94BBCGY13Q": {
+                        "id": "01J5JS52X5QAM64Z94BBCGY13Q",
+                        "product_game_tag_id": "01J5JS553Y1VTS522BFDPS7BNQ",
+                        "title": "Voucher Point Blank - PB",
+                        "avatar_url": "produk/01J6C4BQ67RSH33SKMACE6P7D4.webp",
+                        "group_game_id": null,
+                        "slug": "voucher-point-blank-pb",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 7
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52X180XPK3YZHH380W1X": {
+                        "id": "01J5JS52X180XPK3YZHH380W1X",
+                        "product_game_tag_id": "01J5JS553Y1VTS522BFDPS7BNQ",
+                        "title": "Voucher Garena Shells",
+                        "avatar_url": "produk/01J81T58REGKP24REGTA1ZV5QP.webp",
+                        "group_game_id": null,
+                        "slug": "voucher-garena-shells",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 8
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52XR19NTW88MM8W2K59M": {
+                        "id": "01J5JS52XR19NTW88MM8W2K59M",
+                        "product_game_tag_id": "01J5JS553Y1VTS522BFDPS7BNQ",
+                        "title": "Xbox Gift Card",
+                        "avatar_url": "produk/01J6C4CRYSC1AE31SB3WGCWYFH.webp",
+                        "group_game_id": null,
+                        "slug": "xbox-gift-card",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 9
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52WWDE11B9HVX8ZVXHKA": {
+                        "id": "01J5JS52WWDE11B9HVX8ZVXHKA",
+                        "product_game_tag_id": "01J5JS553Y1VTS522BFDPS7BNQ",
+                        "title": "Fortnite V Bucks",
+                        "avatar_url": "produk/1707122158_e1f2817e65c11c55fc43.webp",
+                        "group_game_id": null,
+                        "slug": "fortnite-v-bucks",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 10
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS518YV4S58BJTQJ9GG57P": {
+                        "id": "01J5JS518YV4S58BJTQJ9GG57P",
+                        "product_game_tag_id": "01J5JS553Y1VTS522BFDPS7BNQ",
+                        "title": "Mango Live",
+                        "avatar_url": "produk/01JH4WQ368ASWA2DB4M5RKK0AS.webp",
+                        "group_game_id": null,
+                        "slug": "mango-live",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 10
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52FBNCQ5TXKSVQ9ZQ3M4": {
+                        "id": "01J5JS52FBNCQ5TXKSVQ9ZQ3M4",
+                        "product_game_tag_id": "01J5JS553Y1VTS522BFDPS7BNQ",
+                        "title": "iTunes",
+                        "avatar_url": "produk/01J9ATRTWGA14XF69XFCEB43ZA.webp",
+                        "group_game_id": null,
+                        "slug": "itunes",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 11
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52X2A8NH8H0NX3YBX59B": {
+                        "id": "01J5JS52X2A8NH8H0NX3YBX59B",
+                        "product_game_tag_id": "01J5JS553Y1VTS522BFDPS7BNQ",
+                        "title": "Vidio",
+                        "avatar_url": "produk/01J6C43E7QX4405MJ982KNRX7F.webp",
+                        "group_game_id": null,
+                        "slug": "vidio",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 12
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS522TSKXTC9STRZWWY9NM": {
+                        "id": "01J5JS522TSKXTC9STRZWWY9NM",
+                        "product_game_tag_id": "01J5JS553Y1VTS522BFDPS7BNQ",
+                        "title": "Voucher Nintendo",
+                        "avatar_url": "produk/1707122117_4524a89431a785ddd998.webp",
+                        "group_game_id": null,
+                        "slug": "voucher-nintendo",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 13
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS522Y15W87JF86G61ZZ9C": {
+                        "id": "01J5JS522Y15W87JF86G61ZZ9C",
+                        "product_game_tag_id": "01J5JS553Y1VTS522BFDPS7BNQ",
+                        "title": "Voucher Bigo",
+                        "avatar_url": "produk/1713404337_f6651d171f2306d834dd.webp",
+                        "group_game_id": null,
+                        "slug": "voucher-bigo",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 14
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52CJXZSC6B4DK4EE7C9R": {
+                        "id": "01J5JS52CJXZSC6B4DK4EE7C9R",
+                        "product_game_tag_id": "01J5JS553Y1VTS522BFDPS7BNQ",
+                        "title": "Voucher Roblox \/ Robux",
+                        "avatar_url": "produk/1707122102_b6c6ed65f05f564ffd5d.webp",
+                        "group_game_id": null,
+                        "slug": "voucher-roblox-robux",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 15
+            }
+        ],
+        "icon": "fa-solid fa-star",
+        "rgb": "11, 129, 227"
+    },
+    "01J5JS554S8M6VJP9SD4T7W3DM": {
+        "id": "01J5JS554S8M6VJP9SD4T7W3DM",
+        "title": "Top Up Game Lain",
+        "groupedProductGames": [
+            {
+                "group_game_id": null,
+                "games": {
+                    "01jmadmx1zq5v6q9rz4g44stx8": {
+                        "id": "01jmadmx1zq5v6q9rz4g44stx8",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Ragnarok Idle Adventure Plus",
+                        "avatar_url": "produk/01JMKECC31475SPX7MMBXGR0VZ.webp",
+                        "group_game_id": null,
+                        "slug": "ragnarok-idle-adventure-plus",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 1
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01j9tcs925hvvgbvv4305pv0rf": {
+                        "id": "01j9tcs925hvvgbvv4305pv0rf",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Ragnarok Classic by GGL",
+                        "avatar_url": "produk/01JETDR9AGYZGCK5CR7N8NHC7X.webp",
+                        "group_game_id": null,
+                        "slug": "ragnarok-classic-by-ggl",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 2
+            },
+            {
+                "group_game_id": "01jdh0a3twemznm2tjzvrxmega",
+                "games": {
+                    "01j875rsq6yr21529dvxtknzcc": {
+                        "id": "01j875rsq6yr21529dvxtknzcc",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "The Ragnarok - Drop link",
+                        "avatar_url": "produk/01J875RQXNFSF8ZWDXR0HVB5B6.webp",
+                        "group_game_id": null,
+                        "slug": "the-ragnarok-drop-link"
+                    },
+                    "01jd4dpk7pxk0daq2x17064c3k": {
+                        "id": "01jd4dpk7pxk0daq2x17064c3k",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "The Ragnarok SEA - Login",
+                        "avatar_url": "produk/01JD4DPJ2PMR5F7YNNCHXZPG9N.webp",
+                        "group_game_id": null,
+                        "slug": "the-ragnarok-sea-login"
+                    }
+                },
+                "group_game": {
+                    "id": "01jdh0a3twemznm2tjzvrxmega",
+                    "name": "The Ragnarok",
+                    "avatar_url": "produk/01JDH0A3J8X8EQ4ZVAV9WJH7R3.webp"
+                },
+                "max_discount": 0,
+                "game_seq_no": 3
+            },
+            {
+                "group_game_id": "01jdvnx0xbyttxsj37b00eagw2",
+                "games": {
+                    "01J5JS52M82NV1705HNFAFN076": {
+                        "id": "01J5JS52M82NV1705HNFAFN076",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Ragnarok X - ID Number",
+                        "avatar_url": "produk/1707124889_7dd0fb9118a15b357d3b.webp",
+                        "group_game_id": null,
+                        "slug": "ragnarok-x-id-number"
+                    }
+                },
+                "group_game": {
+                    "id": "01jdvnx0xbyttxsj37b00eagw2",
+                    "name": "Ragnarok X",
+                    "avatar_url": "produk/01JDVNX0TXE2F2D2K69PNB3G5G.webp"
+                },
+                "max_discount": 0,
+                "game_seq_no": 6
+            },
+            {
+                "group_game_id": "01je5xysddhjh7y128mz0nh5sd",
+                "games": {
+                    "01J5JS50H8B6XRFBN0FDJJBT96": {
+                        "id": "01J5JS50H8B6XRFBN0FDJJBT96",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Ragnarok Origin Global",
+                        "avatar_url": "produk/01J8HFRFQ0WE2Z640HJ0Z5RB6G.webp",
+                        "group_game_id": null,
+                        "slug": "ragnarok-origin-global"
+                    },
+                    "01J5JS51VKV01NR72DQVNVV96G": {
+                        "id": "01J5JS51VKV01NR72DQVNVV96G",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Ragnarok Origin Global - Login",
+                        "avatar_url": "produk/01J8HFPK6W947PXJT28FX9QPSD.webp",
+                        "group_game_id": null,
+                        "slug": "ragnarok-origin-global-login"
+                    }
+                },
+                "group_game": {
+                    "id": "01je5xysddhjh7y128mz0nh5sd",
+                    "name": "Ragnarok Origin Global",
+                    "avatar_url": "produk/01JE5XYS8KCTSS8N14FEY650QJ.webp"
+                },
+                "max_discount": 0,
+                "game_seq_no": 7
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52G5X6ESBDNXJW8DE73R": {
+                        "id": "01J5JS52G5X6ESBDNXJW8DE73R",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Ragnarok M Eternal Love",
+                        "avatar_url": "produk/01JE5TJJ478ABE5BJY5VN40TM6.webp",
+                        "group_game_id": null,
+                        "slug": "ragnarok-m-eternal-love",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 9
+            },
+            {
+                "group_game_id": "01jqc2bmd8erqkefnydnak0yq9",
+                "games": {
+                    "01J5JS52FH680BY0R2DE40RJ0C": {
+                        "id": "01J5JS52FH680BY0R2DE40RJ0C",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Ragnarok V: Returns SEA",
+                        "avatar_url": "produk/01JNZKQDV2323EJCNGKHRSDBYA.webp",
+                        "group_game_id": null,
+                        "slug": "ragnarok-v-returns-sea"
+                    }
+                },
+                "group_game": {
+                    "id": "01jqc2bmd8erqkefnydnak0yq9",
+                    "name": "Ragnarok V: Returns",
+                    "avatar_url": "produk/01JQC2BMC5GJCDEZG4XDC913AY.webp"
+                },
+                "max_discount": 0,
+                "game_seq_no": 10
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52EDTYE9AYN7V39CD0MP": {
+                        "id": "01J5JS52EDTYE9AYN7V39CD0MP",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Ragnarok Idle Adventure",
+                        "avatar_url": "produk/01JFH43RYXT7ZYCYZGD89DWYM8.webp",
+                        "group_game_id": null,
+                        "slug": "ragnarok-idle-adventure",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 11
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52A9SW6H3DH6S57KS1JK": {
+                        "id": "01J5JS52A9SW6H3DH6S57KS1JK",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Black Clover Mobile",
+                        "avatar_url": "produk/1707120859_33420a85c6b5b70301e4.webp",
+                        "group_game_id": null,
+                        "slug": "black-clover-mobile",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 12
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52J8Q5WFRA1AJFQ23F7Z": {
+                        "id": "01J5JS52J8Q5WFRA1AJFQ23F7Z",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Command And Conquer: Legions",
+                        "avatar_url": "produk/1713760917_5b64735a91c7b4045acd.webp",
+                        "group_game_id": null,
+                        "slug": "command-and-conquer-legions",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 13
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS526KS9W84E78JE33KRKY": {
+                        "id": "01J5JS526KS9W84E78JE33KRKY",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "8 Ball Pool",
+                        "avatar_url": "produk/1707120837_007d5f9a65573e6d254b.webp",
+                        "group_game_id": null,
+                        "slug": "8-ball-pool",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 14
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52HT2YK9SKEY1NZ0YRBH": {
+                        "id": "01J5JS52HT2YK9SKEY1NZ0YRBH",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "The Ants",
+                        "avatar_url": "produk/01J8HFDSMTSR4R05STBDETYDPF.webp",
+                        "group_game_id": null,
+                        "slug": "the-ants",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 15
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52JQW4C8WT9Q2B322AD2": {
+                        "id": "01J5JS52JQW4C8WT9Q2B322AD2",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "NBA INFINITE",
+                        "avatar_url": "produk/01J8HFHEFRPZRCNKF5HPA4P1KM.webp",
+                        "group_game_id": null,
+                        "slug": "nba-infinite",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 16
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS523PJBZZVQPKD9N6MS72": {
+                        "id": "01J5JS523PJBZZVQPKD9N6MS72",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "The Legend of Neverland",
+                        "avatar_url": "produk/1707124971_83d518fcc4a3af2db98d.webp",
+                        "group_game_id": null,
+                        "slug": "the-legend-of-neverland",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 17
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52CP1DZDS12VF0EXSVE4": {
+                        "id": "01J5JS52CP1DZDS12VF0EXSVE4",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "One Punch Man World",
+                        "avatar_url": "produk/1707120849_7b5a57604c483f3ecdb2.webp",
+                        "group_game_id": null,
+                        "slug": "one-punch-man-world",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 18
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS529JH31E1TXCRJT31NFZ": {
+                        "id": "01J5JS529JH31E1TXCRJT31NFZ",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Tarisland",
+                        "avatar_url": "produk/01J98K7NPC1ZZ40DFSNR8Z5XJA.webp",
+                        "group_game_id": null,
+                        "slug": "tarisland",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 19
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51WZZG6H54BPKZ8BNEJP": {
+                        "id": "01J5JS51WZZG6H54BPKZ8BNEJP",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Dunk City Dynasty",
+                        "avatar_url": "produk/1707124752_618d9637f5637ee049ad.webp",
+                        "group_game_id": null,
+                        "slug": "dunk-city-dynasty",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 20
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS528SWE2TER2QBSAVHSYG": {
+                        "id": "01J5JS528SWE2TER2QBSAVHSYG",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Blood Strike",
+                        "avatar_url": "produk/1707121059_985abf8f7ebee6367d6f.webp",
+                        "group_game_id": null,
+                        "slug": "blood-strike",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 21
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS5260FC6KT9JXM13PY1AF": {
+                        "id": "01J5JS5260FC6KT9JXM13PY1AF",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Zepeto",
+                        "avatar_url": "produk/1707124797_bc960bd311e6bee98913.webp",
+                        "group_game_id": null,
+                        "slug": "zepeto",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 22
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS5266GGQFASF40X1YM6BV": {
+                        "id": "01J5JS5266GGQFASF40X1YM6BV",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Punishing: Gray Raven",
+                        "avatar_url": "produk/1698030723_8cd403ca5db66e812f93.png",
+                        "group_game_id": null,
+                        "slug": "punishing-gray-raven",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 23
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS50GT4JYBP3CERK8KFSQT": {
+                        "id": "01J5JS50GT4JYBP3CERK8KFSQT",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Arena of Valor",
+                        "avatar_url": "produk/1707124817_2cd15e94e07a9fe79999.webp",
+                        "group_game_id": null,
+                        "slug": "arena-of-valor",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 24
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51XNZXSRQ5VFVSQZR248": {
+                        "id": "01J5JS51XNZXSRQ5VFVSQZR248",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Harry Potter: Magic Awakened",
+                        "avatar_url": "produk/1707124840_30040188a3127df3afe7.webp",
+                        "group_game_id": null,
+                        "slug": "harry-potter-magic-awakened",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 25
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS5222TRH15EW8Q5SKP2Y7": {
+                        "id": "01J5JS5222TRH15EW8Q5SKP2Y7",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Metal Slug : Awakening",
+                        "avatar_url": "produk/1707120266_481a22fa1c5517a32385.webp",
+                        "group_game_id": null,
+                        "slug": "metal-slug-awakening",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 26
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS524DKVFX4PMD0EZQMX2R": {
+                        "id": "01J5JS524DKVFX4PMD0EZQMX2R",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Eggy Party",
+                        "avatar_url": "produk/1707124774_683cd489a7b48fea4437.webp",
+                        "group_game_id": null,
+                        "slug": "eggy-party",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 27
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51X39YXCJMQ1ZK1957C3": {
+                        "id": "01J5JS51X39YXCJMQ1ZK1957C3",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Garena Undawn",
+                        "avatar_url": "produk/1707120322_7ceac0a4345d1de29dbc.webp",
+                        "group_game_id": null,
+                        "slug": "garena-undawn",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 28
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52588M9H67S2BEN7XT3G": {
+                        "id": "01J5JS52588M9H67S2BEN7XT3G",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Dragonheir Silent Gods",
+                        "avatar_url": "produk/1707124853_c828ee3c5035f1560e88.webp",
+                        "group_game_id": null,
+                        "slug": "dragonheir-silent-gods",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 29
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51PC7KJ74RDNNPZHHEK1": {
+                        "id": "01J5JS51PC7KJ74RDNNPZHHEK1",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Seal M SEA",
+                        "avatar_url": "produk/1707124907_b27f518d101465166a56.webp",
+                        "group_game_id": null,
+                        "slug": "seal-m-sea",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 31
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51RT9RW6C4ACSG2SSKS0": {
+                        "id": "01J5JS51RT9RW6C4ACSG2SSKS0",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Marvel Snap",
+                        "avatar_url": "produk/1707124942_dd34b72afe02602a5ae2.webp",
+                        "group_game_id": null,
+                        "slug": "marvel-snap",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 32
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS52R5AEYXWZZ9HR4Z37AK": {
+                        "id": "01J5JS52R5AEYXWZZ9HR4Z37AK",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "State of Survival: Zombie War",
+                        "avatar_url": "produk/01J66PR3DJ3MN5Z5BZTJEP41JH.webp",
+                        "group_game_id": null,
+                        "slug": "state-of-survival-zombie-war",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 33
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS50HN8AEKTWESKXB6SJYV": {
+                        "id": "01J5JS50HN8AEKTWESKXB6SJYV",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Revelation Mobile",
+                        "avatar_url": "produk/1707124994_b311b3c4aa5f8595ea9d.webp",
+                        "group_game_id": null,
+                        "slug": "revelation-mobile",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 34
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS50ZHQAJQNWKAA9WJS8DT": {
+                        "id": "01J5JS50ZHQAJQNWKAA9WJS8DT",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Lords Mobile",
+                        "avatar_url": "produk/01J90S9YFE4M1XVAB72T194H09.webp",
+                        "group_game_id": null,
+                        "slug": "lords-mobile",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 35
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51F4K787NQTPPMP4RMAB": {
+                        "id": "01J5JS51F4K787NQTPPMP4RMAB",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "Ace Racer",
+                        "avatar_url": "produk/1707125030_109b684f6029a591d46f.webp",
+                        "group_game_id": null,
+                        "slug": "ace-racer",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 36
+            },
+            {
+                "group_game_id": null,
+                "games": {
+                    "01J5JS51VGRARQET1S07JD25QF": {
+                        "id": "01J5JS51VGRARQET1S07JD25QF",
+                        "product_game_tag_id": "01J5JS554S8M6VJP9SD4T7W3DM",
+                        "title": "LDCloud - UID",
+                        "avatar_url": "produk/1707125048_c6907baa29d4c47140fd.webp",
+                        "group_game_id": null,
+                        "slug": "ldcloud-uid",
+                        "max_discount": null
+                    }
+                },
+                "game_seq_no": 37
+            }
+        ],
+        "icon": "fa-solid fa-shield-halved",
+        "rgb": "255, 197, 66"
+    }
+}

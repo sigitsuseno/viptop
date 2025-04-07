@@ -5,14 +5,14 @@
     "tipe": "PAYMENT",
     "no_invoice": "D2C-20231001-0001",
     "tanggal": "2023-10-01",
-    "status": "success",
+    "status": "failed",
     "game": "Voucer Google Play",
-    "produk": "16000",
-    "harga": "16850",
+    "produk": "0",
+    "harga": "0",
     "jumlah": "1",
-    "sub_total": "16850",
+    "sub_total": "0",
     "diskon": "0",
-    "fee": "650"
+    "fee": "0"
   },
 
   {

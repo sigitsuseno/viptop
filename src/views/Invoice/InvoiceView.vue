@@ -3,25 +3,31 @@
     <div
       class="frame rounded-2xl overflow-hidden w-full md:w-[720px] m-auto mt-4 bg-blue-200/40 p-[3px]"
     >
-      <div class="frame_in bg-blue-900/70 rounded-2xl overflow-hidden w-full h-full px-6 md:px-12">
-        <div class="flex flex-row justify-center items-center bg-indigo-950/20">
-          <img src="https://testweb.imatechcom.com/viptop/jempol.png" alt="" class="w-32 h-32" />
-          <img
-            src="https://testweb.imatechcom.com/viptop/berhasil.png"
-            alt=""
-            class="w-auto h-20"
-          />
-        </div>
+      <div
+        class="frame_in bg-blue-900/70 rounded-2xl overflow-hidden w-full h-full px-6 md:px-12 pt-4 pb-6"
+      >
         <div
-          class="text-center text-xl font-bold tracking-wider w-full bg-green-500 py-2 px-4 mb-3"
+          class="md:text-lg lg:text-xl font-bold w-full bg-gradient-to-r from-green-600 to-amber-300 mb-3 relative rounded-t-lg overflow-hidden"
           :class="{ 'bg-red-500': order?.status === 'failed' }"
         >
-          <p v-if="order?.status === 'success'">SELAMAT, TRANSAKSI KAMU SUDAH BERHASIL</p>
-          <p v-else-if="order?.status === 'failed'">MAAF, TRANSAKSI KAMU GAGAL</p>
-          <p v-else>STATUS TRANSAKSI TIDAK DIKETAHUI</p>
+          <div v-if="order?.status === 'success'">
+            <img
+              src="https://testweb.imatechcom.com/viptop/berhasil2.webp"
+              alt=""
+              class="w-full h-full object-contain"
+            />
+          </div>
+          <div v-else-if="order?.status === 'failed'">
+            <img
+              src="https://testweb.imatechcom.com/viptop/gagal.webp"
+              alt=""
+              class="w-full h-full object-contain"
+            />
+          </div>
+          <div v-else>STATUS TRANSAKSI TIDAK DIKETAHUI</div>
         </div>
 
-        <div v-if="order" class="py-4 bg-blue-100">
+        <div v-if="order" class="bg-orange-50 rounded-lg overflow-hidden">
           <table class="w-full text-left border-collapse text-blue-950 mb-4">
             <tbody>
               <tr class="bg-blue-950">
@@ -55,7 +61,7 @@
                       class="cursor-pointer focus:font-bold"
                       @click="copyToClipboard(order.harga)"
                     >
-                      <Icon icon="solar:copy-broken" class="text-lg lg:hidden" />
+                      <Icon icon="solar:copy-broken" class="text-lg" />
                     </button>
                   </div>
                 </td>
@@ -69,9 +75,9 @@
                 <td class="flex justify-between px-4 py-1 text-sm">
                   <span>No. Invoice</span>
                   <div class="flex flex-row items-center gap-1">
-                    {{ order.no_invoice }}
+                    #{{ order.no_invoice }}
                     <button class="cursor-pointer" @click="copyToClipboard(order.no_invoice)">
-                      <Icon icon="solar:copy-broken" class="text-lg lg:hidden" />
+                      <Icon icon="solar:copy-broken" class="text-lg" />
                     </button>
                   </div>
                 </td>
@@ -137,14 +143,25 @@
           Invoice tidak ditemukan atau data tidak tersedia
         </div>
         <div class="flex flex-col items-center justify-center gap-4 mt-4" v-if="order">
-          <RouterLink to="/" class="w-full p-2 bg-green-900 rounded-xl text-center text-white">
-            BELANJA LAGI
+          <RouterLink
+            to="/"
+            class="w-full p-3 flex flex-row justify-center items-center gap-2 rounded-xl text-blue-900 font-bold border border-amber-200 bg-gradient-to-bl from-amber-500 via-amber-300 to-amber-200 hover:font-bold relative overflow-hidden group"
+          >
+            <Icon icon="solar:copy-broken" class="text-lg z-10" />
+            <span class="z-10">BELANJA LAGI</span>
+            <div
+              class="absolute w-full h-full bg-amber-500/30 inset-0 scale-0 group-hover:scale-100 transition-transform duration-300 rounded-xl"
+            ></div>
           </RouterLink>
           <RouterLink
             to="/track-order"
-            class="w-full p-2 bg-green-900 rounded-xl text-center text-white"
+            class="w-full p-3 flex flex-row justify-center items-center gap-2 rounded-xl text-blue-900 font-bold border border-indigo-400 bg-gradient-to-b from-10% from-indigo-500 via-40% via-indigo-300 to-70% to-indigo-200 hover:font-bold relative overflow-hidden group"
           >
-            PERIKSA STATUS PEMBAYARAN
+            <Icon icon="solar:copy-broken" class="text-lg z-10" />
+            <span class="z-10">PERIKSA STATUS PEMBAYARAN</span>
+            <div
+              class="absolute w-full h-full bg-indigo-500/30 inset-0 scale-0 group-hover:scale-100 transition-transform duration-300 rounded-xl"
+            ></div>
           </RouterLink>
         </div>
       </div>
